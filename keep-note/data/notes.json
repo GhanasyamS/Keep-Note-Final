@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "gender": null,
+      "firstName": "Naz",
+      "lastName": "Naz",
+      "email": "pp",
+      "password": "pp",
+      "confirmPassword": "James@11",
+      "age": "23",
+      "phone": "7483106222",
+      "address": {
+        "street": "Buddha street",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zipCode": "560033"
+      }
+    }
+  ],
+  "notes": [
+    {
+      "id": "17d4",
+      "title": "JavaScript 2 - Sprint 6",
+      "content": "Complete JavaScript 2 - Sprint 6 - Exercise.",
+      "reminderdate": "2025-04-13",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "de3f",
+      "title": "JavaScript 2 - Sprint 7",
+      "content": "Complete JavaScript 2 Sprint 7  Exercise",
+      "reminderdate": "2025-04-13",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "b64b",
+      "title": "React 2 Sprint 5",
+      "content": "Complete React 2 Spring 5 Exercise",
+      "reminderdate": "2025-04-13",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "id": "c7e1",
+      "title": "JS 2 Project",
+      "content": "Complete JS 2 Project",
+      "reminderdate": "2025-04-15",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "7ce2",
+      "title": "SQL Viva",
+      "content": "Complete SQL Viva",
+      "reminderdate": "2025-04-16",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "d3bc",
+      "title": "HTML and CSS Viva",
+      "content": "Complete Html and Css viva C7",
+      "reminderdate": "2025-04-18",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "af5a",
+      "title": "JavaScript Viva",
+      "content": "Complete JavaScript 1 and 2 Viva",
+      "reminderdate": "2025-04-23",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "624a",
+      "title": "React 2 Project",
+      "content": "Complete React 2 Project",
+      "reminderdate": "2025-04-26",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "3fed",
+      "title": "React Viva",
+      "content": "Complete React 1 and 2 Viva",
+      "reminderdate": "2025-04-27",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "yet-to-start"
+    },
+    {
+      "id": "ed04",
+      "title": "Spring Application 1 Sprints",
+      "content": "Complete Spring 1 all Sprints",
+      "reminderdate": "2025-04-13",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "id": "7d51",
+      "title": "Spring 1 Project",
+      "content": "Complete Spring 1 Project",
+      "reminderdate": "2025-04-13",
+      "category": "Full Stack Dev",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "id": "0fc8",
+      "title": "pp",
+      "content": "pppppp",
+      "reminderdate": "2025-05-01",
+      "category": "Fitness",
+      "priority": "high",
+      "status": "yet-to-start"
+    }
+  ]
+}
